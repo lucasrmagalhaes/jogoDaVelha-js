@@ -1,4 +1,4 @@
-<h1 align="center">:x: :o:</h1>
+<h1 align="center">:x: JOGO DA VELHA  :o:</h1>
 
 <p align="center">
   <a href="https://lucasrmagalhaes.github.io/jogoDaVelha-js/">
