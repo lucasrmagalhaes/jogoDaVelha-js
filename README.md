@@ -1,4 +1,4 @@
-<h1 align="center">Jogo da Velha :x: :o:</h1>
+<h1 align="center">:x: :o:</h1>
 
 <p align="center">
   <a href="https://lucasrmagalhaes.github.io/jogoDaVelha-js/">
@@ -8,7 +8,7 @@
     />
   </a>
   <br />
-  Desenvolvido com HTML, CSS e JavaScript.
+  Jogo da Velha desenvolvido com HTML, CSS e JavaScript.
 </p>
 
 <hr />
