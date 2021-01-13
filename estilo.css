@@ -14,14 +14,14 @@ body {
     color: #eee;
 }
 
-.jogador .vencedor {
+.jogador, .vencedor {
     font-size: 30px;
     margin-top: 10px;
 }
 
-.button {
+button {
     margin-top: 10px;
-    width: 100%;
+    width: 10%;
     height: 30px;
     background: #eee;
     cursor: pointer;

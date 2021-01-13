@@ -2,14 +2,17 @@
 <html lang="pt-br">
 
 <head>
-    <title>Jogo da Velha</title>
+    <title>
+        Jogo da Velha
+    </title>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="estilo.css">
 </head>
 
 <body>
-    
-<h1>Jogo da Velha</h1>
+<h1>
+    Jogo da Velha
+</h1>
 
 <div>
     <div id="1" class="quadrado" onclick="escolherQuadrado(this.id)">-</div>
@@ -29,22 +32,28 @@
     <div id="9" class="quadrado" onclick="escolherQuadrado(this.id)">-</div>
 </div>
     
-<div>
-    <label>Jogador:</label>
+<div class="jogador">
+    <label>
+        Jogador:
+    </label>
     <label id="jogador-selecionado">
-        
+
     </label>
 </div>
 
-<div>
-    <label>Vencedor:</label>
+<div class="vencedor">
+    <label>
+        Vencedor:
+    </label>
     <label id="vencedor-selecionado">
 
     </label>
 </div>
 
 <div>
-    <button>Reiniciar</button>
+    <button onclick="reiniciar()">
+        Reiniciar
+    </button>
 </div>
 
 </body>
