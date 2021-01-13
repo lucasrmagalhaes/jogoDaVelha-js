@@ -8,7 +8,7 @@
     />
   </a>
   <br />
-  Jogo da Velha desenvolvido com HTML, CSS e JavaScript.
+  Desenvolvido com HTML, CSS e JavaScript.
 </p>
 
 <hr />
